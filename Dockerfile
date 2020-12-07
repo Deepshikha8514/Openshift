@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3
 # FROM kubernetes import client
 # FROM kubernetes import config
 FROM registry.access.redhat.com/ubi8/python-36
